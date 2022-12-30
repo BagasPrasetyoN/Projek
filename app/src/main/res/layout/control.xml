@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/frame_layout"/>
+
+    <com.etebarian.meowbottomnavigation.MeowBottomNavigation
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/bottom_navigasi"
+        app:mbn_circleColor="#00889A"
+        app:mbn_selectedIconColor="#00889A"
+        app:mbn_countTextColor="#00889A"
+        app:mbn_countBackgroundColor="#00889A"
+        app:mbn_defaultIconColor="#00889A"
+        app:mbn_backgroundBottomColor="#00889A"/>
+</LinearLayout>

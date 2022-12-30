@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "977376142237",
+    "firebase_url": "https://contoh-led-faf6f-default-rtdb.firebaseio.com",
+    "project_id": "contoh-led-faf6f",
+    "storage_bucket": "contoh-led-faf6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977376142237:android:19d345da71d0bd604d4574",
+        "android_client_info": {
+          "package_name": "com.gasstudio.led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977376142237-v031kscp4vcp5l80i19a8th8k53crstj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV07Ke8fZAQ9_wo742EKhknW_cCVRX_B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977376142237-v031kscp4vcp5l80i19a8th8k53crstj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977376142237:android:bba4be3bee3cb6a44d4574",
+        "android_client_info": {
+          "package_name": "com.gasstudio.projek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977376142237-v031kscp4vcp5l80i19a8th8k53crstj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV07Ke8fZAQ9_wo742EKhknW_cCVRX_B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977376142237-v031kscp4vcp5l80i19a8th8k53crstj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Projek</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="lobster">Lobster air tawar (Cherax) sudah dikenal sejak tahun 1975 oleh masyarakat
+Australia. Australia telah membudidayakan Cherax ke berbagai negara.
+Keberadaan Lobster air tawar (Cherax) sendiri, masih belum banyak dikenal
+oleh masyarakat Indonesia. Lobster air tawar merupakan salah satu genus dari
+famili parastacidae yang mulai dikembangkan oleh petani ikan Indonesia sejak
+tahun 2000. Masyarakat Indonesia terutama di Jawa, masih belum mengenal
+sosok fisik dari lobster air tawar.
+
+\n\nSelain memiliki fisik yang sangat menarik
+untuk dijadikan udang hias, lobster juga dapat digunakan sebagai udang
+konsumsi yang memiliki harga jual yang sangat tinggi. Lobster memiliki tubuh
+yang beruas- ruas seperti udang. Tubuh lobster terdiri atas dua bagian utama
+yaitu bagian kepala yang disebut cephalotorax dan bagian badan yang disebut
+abdomen. Pada bagian badan berbentuk beruas-ruas yang dilengkapi dengan
+lima pasang kaki renang. Lobster menghuni dasar berpasir atau celah formasi
+batuan. Umumnya hewan ini aktif di malam hari, makan di malam hari, tetapi
+sebagian besar beradaptasi dengan baik dengan pencahayaan akuarium
+
+    \n\n Kolam lobster merupakan salah satu jenis habitat yang digunakan sebagai
+tempat untuk kegiatan budidaya. Kolam lobster terdapat beberapa jenis yaitu
+kolam tambak, kolam semen, dan kolam terpal. Kegiatan budidaya lobster yang
+terus menerus menyebabkan degradasi lingkungan, yang ditandai dengan
+menurunnya kualitas air. Kendala saat budidaya lobster saat ini diantaranya,
+penataan wilayah atau penataan ruang pengembangan budidaya yang tidak
+memperhatikan daya dukung lingkungan akibat pengelolaan yang tidak tepat,
+sehingga menimbulkan permasalahan pada kolam dengan segala aspek
+komplikasinya dalam kurun waktu yang panjang</string>
+</resources>
